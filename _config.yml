@@ -1,0 +1,4 @@
+title: My GitHub Pages site
+description: Write content in Markdown; GitHub Pages will build this for you
+theme: jekyll-theme-slate
+markdown: kramdown
